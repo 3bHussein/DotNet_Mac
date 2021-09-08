@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExtD9IyVceGUIrEVKj3aSYNnqFQALB+Uf9GMldX1hqrytdHC+3C+Pp6JnZ7q3/rj7rleMTHrF0G5ByQOVEYNzA==",
+  "success": true,
+  "projectFilePath": "/Users/elhussein/Desktop/DotNet_Mac/DatingApp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/elhussein/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/elhussein/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/elhussein/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/elhussein/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/elhussein/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/elhussein/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
